@@ -1,0 +1,15 @@
+/home/user/Рабочий стол/projects/c-sharp-homework/homeWork8/obj/Debug/net7.0/homeWork8.csproj.AssemblyReference.cache
+/home/user/Рабочий стол/projects/c-sharp-homework/homeWork8/obj/Debug/net7.0/homeWork8.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/Рабочий стол/projects/c-sharp-homework/homeWork8/obj/Debug/net7.0/homeWork8.AssemblyInfoInputs.cache
+/home/user/Рабочий стол/projects/c-sharp-homework/homeWork8/obj/Debug/net7.0/homeWork8.AssemblyInfo.cs
+/home/user/Рабочий стол/projects/c-sharp-homework/homeWork8/obj/Debug/net7.0/homeWork8.csproj.CoreCompileInputs.cache
+/home/user/Рабочий стол/projects/c-sharp-homework/homeWork8/bin/Debug/net7.0/homeWork8
+/home/user/Рабочий стол/projects/c-sharp-homework/homeWork8/bin/Debug/net7.0/homeWork8.deps.json
+/home/user/Рабочий стол/projects/c-sharp-homework/homeWork8/bin/Debug/net7.0/homeWork8.runtimeconfig.json
+/home/user/Рабочий стол/projects/c-sharp-homework/homeWork8/bin/Debug/net7.0/homeWork8.dll
+/home/user/Рабочий стол/projects/c-sharp-homework/homeWork8/bin/Debug/net7.0/homeWork8.pdb
+/home/user/Рабочий стол/projects/c-sharp-homework/homeWork8/obj/Debug/net7.0/homeWork8.dll
+/home/user/Рабочий стол/projects/c-sharp-homework/homeWork8/obj/Debug/net7.0/refint/homeWork8.dll
+/home/user/Рабочий стол/projects/c-sharp-homework/homeWork8/obj/Debug/net7.0/homeWork8.pdb
+/home/user/Рабочий стол/projects/c-sharp-homework/homeWork8/obj/Debug/net7.0/homeWork8.genruntimeconfig.cache
+/home/user/Рабочий стол/projects/c-sharp-homework/homeWork8/obj/Debug/net7.0/ref/homeWork8.dll
